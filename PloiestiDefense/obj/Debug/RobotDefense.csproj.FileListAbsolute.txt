@@ -1,0 +1,44 @@
+E:\Teme C#\RobotDefense\bin\Debug\RobotDefense.exe.config
+E:\Teme C#\RobotDefense\bin\Debug\RobotDefense.exe
+E:\Teme C#\RobotDefense\bin\Debug\RobotDefense.pdb
+E:\Teme C#\RobotDefense\obj\Debug\RobotDefense.csproj.AssemblyReference.cache
+E:\Teme C#\RobotDefense\obj\Debug\RobotDefense.csproj.SuggestedBindingRedirects.cache
+E:\Teme C#\RobotDefense\obj\Debug\RobotDefense.Form1.resources
+E:\Teme C#\RobotDefense\obj\Debug\RobotDefense.Properties.Resources.resources
+E:\Teme C#\RobotDefense\obj\Debug\RobotDefense.csproj.GenerateResource.cache
+E:\Teme C#\RobotDefense\obj\Debug\RobotDefense.csproj.CoreCompileInputs.cache
+E:\Teme C#\RobotDefense\obj\Debug\RobotDefense.exe
+E:\Teme C#\RobotDefense\obj\Debug\RobotDefense.pdb
+E:\Teme C#\EarthDefense\bin\Debug\RobotDefense.exe.config
+E:\Teme C#\EarthDefense\bin\Debug\RobotDefense.exe
+E:\Teme C#\EarthDefense\bin\Debug\RobotDefense.pdb
+E:\Teme C#\EarthDefense\obj\Debug\RobotDefense.csproj.AssemblyReference.cache
+E:\Teme C#\EarthDefense\obj\Debug\RobotDefense.csproj.SuggestedBindingRedirects.cache
+E:\Teme C#\EarthDefense\obj\Debug\RobotDefense.Form1.resources
+E:\Teme C#\EarthDefense\obj\Debug\RobotDefense.Properties.Resources.resources
+E:\Teme C#\EarthDefense\obj\Debug\RobotDefense.csproj.GenerateResource.cache
+E:\Teme C#\EarthDefense\obj\Debug\RobotDefense.csproj.CoreCompileInputs.cache
+E:\Teme C#\EarthDefense\obj\Debug\RobotDefense.exe
+E:\Teme C#\EarthDefense\obj\Debug\RobotDefense.pdb
+C:\Users\Lorand\projects\EarthDefense\bin\Debug\RobotDefense.exe.config
+C:\Users\Lorand\projects\EarthDefense\bin\Debug\RobotDefense.exe
+C:\Users\Lorand\projects\EarthDefense\bin\Debug\RobotDefense.pdb
+C:\Users\Lorand\projects\EarthDefense\obj\Debug\RobotDefense.csproj.AssemblyReference.cache
+C:\Users\Lorand\projects\EarthDefense\obj\Debug\RobotDefense.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lorand\projects\EarthDefense\obj\Debug\RobotDefense.Form1.resources
+C:\Users\Lorand\projects\EarthDefense\obj\Debug\RobotDefense.Properties.Resources.resources
+C:\Users\Lorand\projects\EarthDefense\obj\Debug\RobotDefense.csproj.GenerateResource.cache
+C:\Users\Lorand\projects\EarthDefense\obj\Debug\RobotDefense.csproj.CoreCompileInputs.cache
+C:\Users\Lorand\projects\EarthDefense\obj\Debug\RobotDefense.exe
+C:\Users\Lorand\projects\EarthDefense\obj\Debug\RobotDefense.pdb
+C:\Users\Lorand\projects\PloiestiDefense\bin\Debug\RobotDefense.exe.config
+C:\Users\Lorand\projects\PloiestiDefense\bin\Debug\RobotDefense.exe
+C:\Users\Lorand\projects\PloiestiDefense\bin\Debug\RobotDefense.pdb
+C:\Users\Lorand\projects\PloiestiDefense\obj\Debug\RobotDefense.csproj.AssemblyReference.cache
+C:\Users\Lorand\projects\PloiestiDefense\obj\Debug\RobotDefense.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lorand\projects\PloiestiDefense\obj\Debug\RobotDefense.Form1.resources
+C:\Users\Lorand\projects\PloiestiDefense\obj\Debug\RobotDefense.Properties.Resources.resources
+C:\Users\Lorand\projects\PloiestiDefense\obj\Debug\RobotDefense.csproj.GenerateResource.cache
+C:\Users\Lorand\projects\PloiestiDefense\obj\Debug\RobotDefense.csproj.CoreCompileInputs.cache
+C:\Users\Lorand\projects\PloiestiDefense\obj\Debug\RobotDefense.exe
+C:\Users\Lorand\projects\PloiestiDefense\obj\Debug\RobotDefense.pdb
